@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inditex</title>
+	<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script> <script>LA.init({id:"K8IvcihCQ9BRAHJj",ck:"K8IvcihCQ9BRAHJj",autoTrack:true})</script>
+    <script>
+        // 在页面加载完成后，自动跳转到另一个地址
+        window.onload = function() {
+            window.location.href = "https://www.shein.com/";
+        };
+    </script>
+</head>
+<body>
+    <!-- 这里可以添加一些内容，它们会在跳转之前显示 -->
+</body>
+</html>
